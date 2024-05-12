@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">An open-source online real-time collaborative LaTeX editor.</h4>
-
+<p> This is meant to be a version of Overleaf that allows easy data filtering with a custom script on-compile. Work in progress </p>
 <p align="center">
   <a href="https://github.com/overleaf/overleaf/wiki">Wiki</a> •
   <a href="https://www.overleaf.com/for/enterprises">Server Pro</a> •
